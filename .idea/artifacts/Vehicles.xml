@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vehicles">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="Vehicles.jar">
+      <element id="module-output" name="NVehicles" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

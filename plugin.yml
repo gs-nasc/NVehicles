@@ -1,0 +1,6 @@
+name: "NVehicles"
+author: ["Naxsi_<gsnaxsi@gmail.com>"]
+version: 1.0
+main: org.merlin.nvehicles.NVehicles
+commands:
+  vehicle:
